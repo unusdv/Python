@@ -1,0 +1,16 @@
+Programming paradigms - Dasturlash uslublari
+
+Linear Programming
+
+Imperative Programming
+    Structured Programming: for if while variable
+    Procedural Programming: function
+        Fortran, Algol
+    Object-Oriented Programming
+        Alan Kay. Smalltalk
+        Java, Python, C++, PHP, C#, JS
+        labmda
+
+Declarative Programming: SQL
+    Functional Programming
+        Lisp, Clojure, F#
